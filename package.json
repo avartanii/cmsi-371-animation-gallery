@@ -2,7 +2,7 @@
   "name": "cmsi-371-animation-gallery",
   "version": "1.0.0",
   "description": "Gallery website for CMSI 371 2D animation assignments",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "eslint *.js"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/avartanii/cmsi-371-animation-gallery.git"
   },
   "author": "Allen Vartanian",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^3.7.0"
   },
@@ -24,8 +24,6 @@
     },
     "extends": "eslint:recommended",
     "globals": {
-      "KeyframeTweener": true,
-      "SampleSpriteLibrary": true
     },
     "rules": {
       "curly": 2,
