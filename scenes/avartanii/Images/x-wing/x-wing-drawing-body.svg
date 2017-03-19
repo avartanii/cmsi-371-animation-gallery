@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Body" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A7A9AC;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#7D7E81;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#BE1E2D;}
+	.st3{fill:#BCBEC0;}
+	.st4{fill:#58595B;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="240.2,198.3 212,258.5 225.5,295.1 253.9,302.6 282.4,295.1 295.9,258.5 267.7,198.3 "/>
+<polygon class="st0" points="231.4,230 219.5,258.5 225.5,295.1 253.9,302.6 282.4,295.1 288.4,258.5 276.5,230 "/>
+<rect x="235.7" y="230" class="st0" width="36.6" height="51.1"/>
+<circle class="st0" cx="253.9" cy="255.6" r="15.7"/>
+<polygon class="st0" points="231.4,230 240.5,198.3 267.7,198.3 276.8,230 "/>
+<line class="st0" x1="288.4" y1="258.5" x2="295.9" y2="258.5"/>
+<line class="st0" x1="219.5" y1="258.5" x2="212" y2="258.5"/>
+<circle class="st1" cx="254.1" cy="290.3" r="6.8"/>
+<circle class="st1" cx="269.7" cy="290.3" r="5.4"/>
+<circle class="st1" cx="238.2" cy="290.3" r="5.4"/>
+<line class="st0" x1="241.9" y1="255.6" x2="266" y2="255.6"/>
+<line class="st0" x1="260.9" y1="255.6" x2="260.9" y2="266.3"/>
+<line class="st0" x1="247" y1="266.3" x2="247" y2="255.6"/>
+<path class="st2" d="M264.3,222.8c-3.2,1.4-6.6,2.2-10.3,2.2c-3.7,0-7.2-0.8-10.3-2.2l0,0c0-5.7,4.6-10.3,10.3-10.3
+	S264.3,217,264.3,222.8L264.3,222.8z"/>
+<path class="st3" d="M262.4,222c-2.6,1.1-5.4,1.8-8.4,1.8c-3,0-5.8-0.6-8.4-1.8l0,0c0-4.6,3.7-8.4,8.4-8.4
+	C258.7,213.6,262.4,217.4,262.4,222L262.4,222z"/>
+<polyline class="st0" points="254.1,223.8 254.1,213.6 245.7,222 "/>
+<line class="st0" x1="254.1" y1="213.6" x2="262.4" y2="222"/>
+<circle cx="257.4" cy="217.9" r="2.1"/>
+<polygon class="st4" points="238.6,210.9 244.8,198.3 263.3,198.3 269.6,210.9 "/>
+</svg>

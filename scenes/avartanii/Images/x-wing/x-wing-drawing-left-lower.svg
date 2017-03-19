@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Left_Lower" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A7A9AC;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g>
+	<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -136.6587 73.0891)" class="st0" cx="68.1" cy="291.6" rx="7" ry="7"/>
+	<path class="st0" d="M54,296.1l13-7.5c0,0,1.9-0.8,3.3,1.7c1.4,2.5-0.2,3.7-0.2,3.7l-11.1,6.4"/>
+	<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -152.342 59.6629)" class="st0" cx="35.2" cy="314.1" rx="7.6" ry="7.6"/>
+	<path class="st0" d="M55.3,314c4.8-2.7,6.4-8.8,3.6-13.6c-2.7-4.8-8.8-6.4-13.6-3.6l-15.2,8.8c-4.8,2.7-6.4,8.8-3.6,13.6
+		s8.8,6.4,13.6,3.6L55.3,314z"/>
+	<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -152.342 59.6629)" class="st0" cx="35.2" cy="314.1" rx="9.9" ry="9.9"/>
+	<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -152.342 59.6629)" class="st0" cx="35.2" cy="314.1" rx="1.5" ry="1.5"/>
+</g>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -123.3198 135.7534)" class="st0" cx="191.7" cy="298" rx="17.2" ry="17.2"/>
+<path class="st0" d="M180.8,284.7c-6.4,5.2-8.3,14.5-4,21.9c4.7,8.2,15.2,11,23.5,6.3l9.1-7.5c6.6-6.8,6.3-17.7-0.5-24.3
+	s-17.7-6.3-24.3,0.5L180.8,284.7L180.8,284.7z"/>
+<radialGradient id="SVGID_1_" cx="213.6499" cy="237.7968" r="13.9769" gradientTransform="matrix(-0.866 0.5 0.5 0.866 257.7872 -14.7684)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.3132" style="stop-color:#FBB040"/>
+	<stop  offset="1" style="stop-color:#EF4136"/>
+</radialGradient>
+<circle class="st1" cx="191.7" cy="298" r="14"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -123.3198 135.7534)" class="st2" cx="191.7" cy="298" rx="4.3" ry="4.3"/>
+<line class="st0" x1="189.5" y1="294.3" x2="184.7" y2="285.9"/>
+<line class="st0" x1="191.7" y1="293.7" x2="191.7" y2="284"/>
+<line class="st0" x1="193.8" y1="294.3" x2="198.6" y2="285.9"/>
+<line class="st0" x1="195.4" y1="295.8" x2="203.8" y2="291"/>
+<line class="st0" x1="196" y1="298" x2="205.6" y2="298"/>
+<line class="st0" x1="195.4" y1="300.1" x2="203.8" y2="305"/>
+<line class="st0" x1="193.8" y1="301.7" x2="198.6" y2="310.1"/>
+<line class="st0" x1="191.7" y1="302.3" x2="191.7" y2="312"/>
+<line class="st0" x1="189.5" y1="301.7" x2="184.7" y2="310.1"/>
+<line class="st0" x1="187.9" y1="300.1" x2="179.6" y2="305"/>
+<line class="st0" x1="187.3" y1="298" x2="177.7" y2="298"/>
+<line class="st0" x1="187.9" y1="295.8" x2="179.6" y2="291"/>
+<polygon class="st0" points="254,269.2 22.7,308.3 22.8,304.1 30.2,294.2 159,261.4 247.9,252.6 "/>
+<line class="st0" x1="252.5" y1="265.2" x2="22.8" y2="304.1"/>
+<polyline class="st2" points="159,261.4 148.2,276.3 183.1,271.3 "/>
+</svg>

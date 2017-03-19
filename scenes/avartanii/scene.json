@@ -1,0 +1,886 @@
+[
+
+    {
+        "sprite": "trench",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 516,
+                "ty": 368,
+                "direction": 1.0,
+                "showing": true
+            },
+
+            {
+                "frame": 400,
+                "direction": -1.0
+            },
+
+            {
+                "frame": 450,
+                "direction": 1.0
+            },
+
+            {
+                "frame": 700,
+                "direction": -1.0
+            },
+
+            {
+                "frame": 750,
+                "direction": 1.0
+            },
+
+            {
+                "frame": 1025,
+                "direction": -1.0
+            },
+
+            {
+                "frame": 1100,
+                "direction": 1.0
+            },
+
+            {
+                "frame": 1150,
+                "direction": -1.0
+            },
+
+            {
+                "frame": 1300,
+                "direction": 1.0
+            },
+
+            {
+                "frame": 1425,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "space",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 516,
+                "ty": 368
+            },
+
+            {
+                "frame": 1100,
+                "showing": true
+            },
+
+            {
+                "frame": 1150,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "spaceBlank",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 384
+            },
+
+            {
+                "frame": 1425,
+                "showing": true
+            },
+
+            {
+                "frame": 1800
+            }
+        ]
+    },
+
+    {
+        "sprite": "exhaust",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 364
+            },
+
+            {
+                "frame": 1375,
+                "showing": true
+            },
+
+            {
+                "frame": 1425
+            }
+        ]
+    },
+
+    {
+        "sprite": "shotsIn",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 768
+            },
+
+            {
+                "frame": 1375,
+                "ty": 768,
+                "sx": 5.0,
+                "sy": 5.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1383,
+                "ty": 250
+            },
+
+            {
+                "frame": 1385,
+                "ty": 300,
+                "sx": 1.0,
+                "sy": 1.0
+            }
+        ]
+    },
+
+    {
+        "sprite": "shots",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 384,
+                "ease": "quadEaseOut"
+            },
+
+            {
+                "frame": 1350,
+                "sx": 5.0,
+                "sy": 5.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1375,
+                "sx": 0.1,
+                "sy": 0.1
+            }
+        ]
+    },
+
+    {
+        "sprite": "xwingCockpit",
+        "keyframes": [
+            {
+                "frame": 200,
+                "tx": 512,
+                "ty": 412,
+                "sx": 1.5,
+                "sy": 1.5,
+                "ease": "quadEaseInAndOut",
+                "showing": true
+            },
+
+            {
+                "frame": 250,
+                "tx": 362,
+                "ty": 1600,
+                "sx": 10.0,
+                "sy": 10.0
+            },
+
+            {
+                "frame": 400,
+                "showing": false
+            },
+
+            {
+                "frame": 500,
+                "showing": true
+            },
+
+            {
+                "frame": 700,
+                "showing": false
+            },
+
+            {
+                "frame": 1300,
+                "showing": true
+            },
+
+            {
+                "frame": 1375
+            }
+        ]
+    },
+
+    {
+        "sprite": "xwing",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 368,
+                "ty": -100,
+                "sx": 0.5,
+                "sy": 0.5,
+                "ease": "quadEaseInAndOut",
+                "showing": true
+            },
+
+            {
+                "frame": 50,
+                "sx": 1.5,
+                "sy": 1.5,
+                "tx": 768,
+                "ty": 612,
+                "rotate": 15.0
+            },
+
+            {
+                "frame": 100,
+                "tx": 256,
+                "ty": 512,
+                "rotate": -15.0,
+                "wingOpenAmount": 0.0
+            },
+
+            {
+                "frame": 150,
+                "tx": 512,
+                "ty": 512,
+                "wingOpenAmount": 0.0,
+                "rotate": 0.0
+            },
+
+            {
+                "frame": 200,
+                "tx": 512,
+                "ty": 412,
+                "wingOpenAmount": 1.0,
+                "sx": 1.5,
+                "sy": 1.5,
+                "opacity": 1.0
+            },
+
+            {
+                "frame": 250,
+                "tx": 362,
+                "ty": 1600,
+                "sx": 10.0,
+                "sy": 10.0,
+                "opacity": 0.0,
+                "showing": false
+            },
+
+            {
+                "frame": 825,
+                "tx": 512,
+                "ty": 412,
+                "sx": 0.5,
+                "sy": 0.5,
+                "opacity": 1.0,
+                "showing": true
+            },
+
+            {
+                "frame": 875,
+                "tx": 768,
+                "ty": 512,
+                "sx": 1.0,
+                "sy": 1.0,
+                "rotate": 15.0
+            },
+
+            {
+                "frame": 925,
+                "tx": 256,
+                "ty": 412,
+                "rotate": -15.0
+            },
+
+            {
+                "frame": 975,
+                "tx": 768,
+                "rotate": 15.0
+            },
+
+            {
+                "frame": 1025,
+                "tx": 512,
+                "rotate": 0.0,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "targettingComputer",
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": -100,
+                "ty": 368,
+                "sx": 2.0,
+                "sy": 2.0,
+                "rotate": 90,
+                "aimAmount": 0.0,
+                "showing": true
+            },
+
+            {
+                "frame": 300,
+                "tx": 400,
+                "rotate": 90
+            },
+
+            {
+                "frame": 325,
+                "rotate": 0
+            },
+
+            {
+                "frame": 400,
+                "aimAmount": 0.3,
+                "showing": false
+            },
+
+            {
+                "frame": 500,
+                "showing": true
+            },
+
+            {
+                "frame": 600,
+                "rotate": 0
+            },
+
+            {
+                "frame": 625,
+                "rotate": 90,
+                "tx": 400
+            },
+
+            {
+                "frame": 675,
+                "tx": -100,
+                "aimAmount": 0.85
+            }
+
+
+        ]
+    },
+
+    {
+        "sprite": "tieFighterInside",
+        "keyframes": [
+            {
+                "frame": 825,
+                "tx": 516,
+                "ty": 368,
+                "sx": 0.15,
+                "sy": 0.15,
+                "showing": true
+            },
+
+            {
+                "frame": 875,
+                "sx": 1.0,
+                "sy": 1.0
+            },
+
+            {
+                "frame": 1025,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFighters",
+        "keyframes": [
+            {
+                "frame": 400,
+                "tx": 512,
+                "ty": 368,
+                "sx": 0.01,
+                "sy": 0.01,
+                "showing": true
+            },
+
+            {
+                "frame": 450,
+                "sx": 8.0,
+                "sy": 8.0,
+                "showing": false
+            },
+
+            {
+                "frame": 700,
+                "tx": 512,
+                "ty": 368,
+                "sx": 0.01,
+                "sy": 0.01,
+                "showing": true
+            },
+
+            {
+                "frame": 750,
+                "sx": 8.0,
+                "sy": 8.0,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFighterVader",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 368
+            },
+
+            {
+                "frame": 1025,
+                "sx": 2.0,
+                "sy": 2.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1075,
+                "sx": 2.5,
+                "sy": 2.5
+            },
+
+            {
+                "frame": 1100,
+                "showing": false
+            },
+
+            {
+                "frame": 1150,
+                "showing": true
+            },
+
+            {
+                "frame": 1165,
+                "tx": 512,
+                "ty": 368,
+                "sx": 2.5,
+                "sy": 2.5,
+                "rotate": 0.0
+            },
+
+            {
+                "frame": 1200,
+                "tx": 384,
+                "ty": -300,
+                "sx": 0.5,
+                "sy": 0.5,
+                "rotate": 1080.0
+            },
+
+            {
+                "frame": 1300,
+                "showing": false
+            },
+
+            {
+                "frame": 1305
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFighterLeft",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 368
+            },
+
+            {
+                "frame": 1025,
+                "sx": 2.0,
+                "sy": 2.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1075,
+                "sx": 2.5,
+                "sy": 2.5,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFighterRight",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 368
+            },
+
+            {
+                "frame": 1025,
+                "sx": 2.0,
+                "sy": 2.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1075,
+                "sx": 2.5,
+                "sy": 2.5
+            },
+
+            {
+                "frame": 1100,
+                "showing": false
+            },
+
+            {
+                "frame": 1150,
+                "tx": 512,
+                "ty": 368,
+                "rotate": 0.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1165,
+                "tx": 450,
+                "ty": 200,
+                "sx": 2.5,
+                "sy": 2.5,
+                "rotate": -15.0,
+                "ease": "quadEaseIn"
+            },
+
+            {
+                "frame": 1225,
+                "tx": 300,
+                "ty": 400,
+                "sx": 1.0,
+                "sy": 1.0,
+                "rotate": 1170,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "laser",
+        "keyframes": [
+            {
+                "frame": 1065,
+                "tx": 417,
+                "ty": -100,
+                "showing": true
+            },
+
+            {
+                "frame": 1075,
+                "tx": 195,
+                "ty": 372,
+                "showing": false
+            }
+
+        ]
+    },
+
+    {
+        "sprite": "falcon",
+        "keyframes": [
+            {
+                "frame": 1100,
+                "tx": 512,
+                "ty": 125,
+                "sx": 1.0,
+                "sy": 1.0,
+                "rotate": -25.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1150,
+                "ty": 384,
+                "sx": 3.5,
+                "sy": 3.5,
+                "rotate": 0.0
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFighterRightExplode",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 195,
+                "ty": 372
+            },
+
+            {
+                "frame": 1075,
+                "sx": 1.0,
+                "sy": 1.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1080,
+                "opacity": 1.0
+            },
+
+            {
+                "frame": 1090,
+                "tx": 195,
+                "ty": 372,
+                "sx": 3.0,
+                "sy": 3.0,
+                "opacity": 0.0,
+                "showing": false
+            },
+
+            {
+                "frame": 1225,
+                "tx": 300,
+                "ty": 350,
+                "sx": 1.0,
+                "sy": 1.0,
+                "opacity": 1.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1250,
+                "sx": 2.0,
+                "sy": 2.0,
+                "opacity": 0.0
+            }
+        ]
+    },
+
+    {
+        "sprite": "tieFightersBack",
+        "keyframes": [
+            {
+                "frame": 450,
+                "tx": 512,
+                "ty": 368,
+                "sx": 8.0,
+                "sy": 8.0,
+                "ease": "quadEaseOut",
+                "showing": true
+            },
+
+            {
+                "frame": 500,
+                "sx": 1.0,
+                "sy": 1.0,
+                "ease": "quadEaseIn",
+                "showing": false
+            },
+
+            {
+                "frame": 750,
+                "tx": 512,
+                "ty": 368,
+                "sx": 8.0,
+                "sy": 8.0,
+                "ease": "quadEaseOut",
+                "showing": true
+            },
+
+            {
+                "frame": 800,
+                "sx": 2.0,
+                "sy": 2.0,
+                "ease": "quadEaseIn"
+            },
+
+            {
+                "frame": 825,
+                "opacity": 1.0
+            },
+
+            {
+                "frame": 875,
+                "sx": 10.0,
+                "sy": 10.0,
+                "opacity": 0.0
+            }
+        ]
+    },
+
+    {
+        "sprite": "deathStar",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 300,
+                "ty": 300
+            },
+
+            {
+                "frame": 1425,
+                "howReady": 0.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1475,
+                "howReady": 0.8
+            }
+        ]
+    },
+
+    {
+        "sprite": "boom",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 300,
+                "ty": 300
+            },
+
+            {
+                "frame": 1475,
+                "sx": 1.0,
+                "sy": 1.0,
+                "showing": true
+            },
+
+            {
+                "frame": 1525,
+                "opacity": 1.0
+            },
+
+            {
+                "frame": 1550,
+                "sx": 4.0,
+                "sy": 4.0,
+                "opacity": 0.0
+            }
+        ]
+    },
+
+    {
+        "sprite": "useTheForce",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 650,
+                "sx": 2.0,
+                "sy": 2.0
+            },
+
+            {
+                "frame": 525,
+                "showing": true
+            },
+
+            {
+                "frame": 600,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "forceIsStrong",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 600,
+                "sx": 2.0,
+                "sy": 2.0
+            },
+
+            {
+                "frame": 900,
+                "showing": true
+            },
+
+            {
+                "frame": 1000,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "yeehaw",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 368,
+                "ty": 150,
+                "rotate": 15.0
+            },
+
+            {
+                "frame": 1100,
+                "sx": 0.1,
+                "sy": 0.1,
+                "showing": true
+            },
+
+            {
+                "frame": 1150,
+                "sx": 3.0,
+                "sy": 3.0,
+                "showing": false
+            }
+        ]
+    },
+
+    {
+        "sprite": "theEnd",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 384,
+                "ease": "easeInOutCirc"
+            },
+
+            {
+                "frame": 1575,
+                "showing": true,
+                "sx": 0.1,
+                "sy": 0.1
+            },
+
+            {
+                "frame": 1700,
+                "ty": 384,
+                "sx": 2.0,
+                "sy": 2.0,
+                "ease": "easeOutBounce"
+            },
+
+            {
+                "frame": 1750,
+                "ty": 968
+            }
+        ]
+    }
+]
