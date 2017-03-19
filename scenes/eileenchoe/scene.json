@@ -1,0 +1,808 @@
+[
+    {
+        "sprite": "cloud",
+        "index": 1,
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 80,
+                "ty": 160
+            },
+            {
+                "frame": 1100,
+                "tx": 180,
+                "ty": 160,
+                "ease": "easeInSine"
+            },
+            {
+                "frame": 2000,
+                "tx": 380,
+                "ty": 160
+            }
+        ]
+    },
+    {
+        "sprite": "cloud",
+        "index": 2,
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 620,
+                "ty": 280
+            },
+            {
+                "frame": 1100,
+                "tx": 720,
+                "ty": 280,
+                "ease": "easeInSine"
+            },
+            {
+                "frame": 2000,
+                "tx": 920,
+                "ty": 280
+            }
+        ]
+    },
+    {
+        "sprite": "cloud",
+        "index": 3,
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 417,
+                "ty": 124
+            },
+            {
+                "frame": 1100,
+                "tx": 517,
+                "ty": 124
+            },
+            {
+                "frame": 2000,
+                "tx": 717,
+                "ty": 124,
+                "ease": "easeInSine"
+            }
+        ]
+    },
+    {
+        "sprite": "cloud",
+        "index": 4,
+        "keyframes": [
+            {
+                "frame": 800,
+                "tx": -200,
+                "ty": 260,
+                "ease": "easeInSine"
+            },
+            {
+                "frame": 2000,
+                "tx": 100,
+                "ty": 260
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 1,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 255179071
+            },
+            {
+                "frame": 550,
+                "stringLength": 175,
+                "ease": "easeInOutCirc"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 200,
+                "angle": -20
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 5,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 160150207
+            },
+            {
+                "frame": 450,
+                "stringLength": 225,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 300,
+                "angle": 10
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 4,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 255209220
+            },
+            {
+                "frame": 450,
+                "stringLength": 175,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "angle": 0,
+                "stringLength": 350
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 3,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 253253150
+            },
+            {
+                "frame": 450,
+                "stringLength": 225,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "angle": -10,
+                "stringLength": 300
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 2,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.3333333333333,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 174198207
+            },
+            {
+                "frame": 450,
+                "stringLength": 125,
+                "ease": "easeOutBounce"
+            },
+            {
+
+                "frame": 650,
+                "tx": 283.3333333333333,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "angle": -15,
+                "stringLength": 250
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75,
+                "angle": -15
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 7,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 142211112
+            },
+            {
+                "frame": 450,
+                "stringLength": 150,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 200,
+                "angle": 20
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 6,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 230165197
+            },
+            {
+                "frame": 450,
+                "stringLength": 125,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 250,
+                "angle": 15
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 9,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 128210215
+            },
+            {
+                "frame": 450,
+                "stringLength": 135,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 580,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 180,
+                "angle": -10
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 10,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 141216161
+            },
+            {
+                "frame": 450,
+                "stringLength": 90,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 580,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 180,
+                "angle": 10
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 8,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 160150207
+            },
+            {
+                "frame": 450,
+                "stringLength": 187,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 250,
+                "angle": 0
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "balloon",
+        "index": 11,
+        "keyframes": [
+            {
+                "frame": 250,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 0.30,
+                "sy": 0.30,
+                "stringLength": 0,
+                "angle": 0,
+                "color": 189025149
+            },
+            {
+                "frame": 450,
+                "stringLength": 100,
+                "ease": "easeOutBounce"
+            },
+            {
+                "frame": 650,
+                "tx": 283.33,
+                "ty": 550,
+                "sx": 1.0,
+                "sy": 1.0,
+                "stringLength": 200,
+                "angle": 0
+            },
+            {
+                "frame": 1100,
+                "tx": 495.33,
+                "ty": 450,
+                "sx": 0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "tx": 495.33,
+                "ty": 450
+            }
+        ]
+    },
+    {
+        "sprite": "house",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 300,
+                "ty": 650,
+                "sx": 1.0,
+                "sy": 1.0
+            },
+            {
+                "frame": 650,
+                "tx": 300,
+                "ty": 650,
+                "sx": 1.0,
+                "sy": 1.0,
+                "windowPercentOpen": 0
+            },
+            {
+                "frame": 1100,
+                "sx": 0.75,
+                "sy": 0.75,
+                "tx": 510,
+                "ty": 520,
+                "windowPercentOpen": 1
+            },
+            {
+                "frame": 2000,
+                "tx": 510,
+                "ty": 520
+            }
+        ]
+    },
+    {
+        "sprite": "russell",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 375,
+                "ty": 700,
+                "sx": 1.0,
+                "sy": 1.0,
+                "russellState": 1
+            },
+            {
+                "frame": 270,
+                "sx": 1.0,
+                "sy": 1.0,
+                "russellState": 1
+            },
+            {
+                "frame": 280,
+                "russellState": 3
+            },
+            {
+                "frame": 290,
+                "russellState": 1
+            },
+            {
+                "frame": 300,
+                "russellState": 3
+            },
+            {
+                "frame": 310,
+                "russellState": 1
+            },
+            {
+                "frame": 320,
+                "russellState": 3
+            },
+            {
+                "frame": 330,
+                "russellState": 1
+            },
+            {
+                "frame": 420,
+                "tx": 375,
+                "ty": 700,
+                "sx": 1.0,
+                "russellState": 1
+            },
+            {
+                "frame": 421,
+                "tx": 450,
+                "ty": 700,
+                "sx": -1.0,
+                "russellState": 3
+            },
+            {
+                "frame": 430,
+                "russellState": 3
+            },
+            {
+                "frame": 440,
+                "russellState": 5
+            },
+            {
+                "frame": 450,
+                "russellState": 3
+            },
+            {
+                "frame": 460,
+                "russellState": 5
+            },
+            {
+                "frame": 470,
+                "russellState": 3
+            },
+            {
+                "frame": 480,
+                "russellState": 5
+            },
+            {
+                "frame": 490,
+                "russellState": 3
+            },
+            {
+                "frame": 500,
+                "russellState": 5
+            },
+            {
+                "frame": 510,
+                "russellState": 3
+            },
+            {
+                "frame": 520,
+                "russellState": 5
+            },
+            {
+                "frame": 540,
+                "russellState": 3
+            },
+            {
+                "frame": 560,
+                "russellState": 5,
+                "tx": 350,
+                "ty": 700,
+                "sx": -1.0
+            },
+            {
+                "frame": 650,
+                "tx": 350,
+                "ty": 700,
+                "sx": -1.0,
+                "russellState": 4
+            },
+
+            {
+                "frame": 1100,
+                "russellState": 4,
+                "tx": 550,
+                "ty": 550,
+                "sx": -0.75,
+                "sy": 0.75
+            },
+            {
+                "frame": 2000,
+                "russellState": 4,
+                "tx": 550,
+                "ty": 550,
+                "sx": -0.75,
+                "sy": 0.75
+            }
+        ]
+    },
+    {
+        "sprite": "speechBubble",
+        "index" : 1,
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 450,
+                "ty": 670,
+                "phraseNum": 1,
+                "percentComplete": 0
+            },
+            {
+                "frame": 50,
+                "phraseNum": 1,
+                "percentComplete": 1
+            },
+            {
+                "frame": 80,
+                "phraseNum": 1,
+                "percentComplete": 1
+            }
+        ]
+    },
+    {
+        "sprite": "speechBubble",
+        "index": 2,
+        "keyframes": [
+            {
+                "frame": 90,
+                "tx": 450,
+                "ty": 670,
+                "phraseNum": 2,
+                "percentComplete": 0
+            },
+            {
+                "frame": 180,
+                "phraseNum": 2,
+                "percentComplete": 1
+            },
+            {
+                "frame": 230,
+                "phraseNum": 2,
+                "percentComplete": 1
+            }
+        ]
+    },
+    {
+        "sprite": "speechBubble",
+        "index": 3,
+        "keyframes": [
+            {
+                "frame": 270,
+                "tx": 450,
+                "ty": 670,
+                "phraseNum": 3,
+                "percentComplete": 0
+            },
+            {
+                "frame": 350,
+                "phraseNum": 3,
+                "percentComplete": 1
+            },
+            {
+                "frame": 400,
+                "phraseNum": 3,
+                "percentComplete": 1
+            }
+        ]
+    },
+    {
+        "sprite": "speechBubble",
+        "index": 4,
+        "keyframes": [
+            {
+                "frame": 800,
+                "tx": 450,
+                "ty": 550,
+                "phraseNum": 4,
+                "percentComplete": 0
+            },
+            {
+                "frame": 950,
+                "phraseNum": 4,
+                "percentComplete": 1
+            },
+            {
+                "frame": 1100,
+                "tx": 600,
+                "ty": 465,
+                "phraseNum": 4,
+                "percentComplete": 1
+            }
+        ]
+    }
+]

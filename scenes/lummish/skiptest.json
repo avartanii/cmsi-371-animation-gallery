@@ -1,0 +1,37 @@
+[
+    {
+        "sprite": "tardis",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 128
+            },
+
+            {
+                "frame": 200,
+                "ty": 384,
+                "sx": 2.0,
+                "sy": 2.0,
+                "decimalDoorOpen": 0.5,
+                "ease": "easeInOutSine"
+            },
+
+            {
+                "frame": 400,
+                "tx": 312,
+                "ty": 128
+            },
+
+            {
+                "frame": 600,
+                "sx": 3.0,
+                "sy": 3.0
+            },
+
+            {
+                "frame": 800
+            }
+        ]
+    }
+]

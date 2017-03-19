@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#707070;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#A0A0A0;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#5F636A;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:#736D78;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#635268;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:#909090;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<rect y="537.6" class="st0" width="1024" height="230.4"/>
+<rect class="st1" width="1024" height="537.6"/>
+<polygon class="st2" points="604.7,199.4 697.5,284.9 604.7,370.4 419.3,370.4 326.5,284.9 419.3,199.4 "/>
+<polygon class="st3" points="573,228.7 633.9,284.9 573,341.1 451,341.1 390.1,284.9 451,228.7 "/>
+<path class="st4" d="M573,341.1l29.5-27.2c0.4-1.8,0.6-3.6,0.6-5.5c0-26-40.8-47.1-91.1-47.1s-91.1,21.1-91.1,47.1
+	c0,1.9,0.2,3.7,0.6,5.5l29.5,27.2H573z"/>
+<polygon class="st5" points="454.1,370.4 454.1,540.2 464.9,768 512,768 504.2,540.2 504.2,370.4 "/>
+<polygon class="st5" points="570.2,370.4 570.2,540.2 559.1,768 512,768 520.1,540.2 520.1,370.4 "/>
+<rect x="504.2" y="370.4" width="15.9" height="141.6"/>
+<line class="st6" x1="803.6" y1="60.6" x2="877.1" y2="284.9"/>
+<polyline class="st6" points="710.6,228.7 721.1,284.9 737.6,294.6 743.6,318.6 892.1,318.6 920.6,410.1 "/>
+<line class="st6" x1="190.1" y1="251.1" x2="326.5" y2="251.1"/>
+<polyline class="st6" points="200.6,330.6 326.5,330.6 301.1,465.6 "/>
+<polyline class="st6" points="340.1,537.6 349.1,449.1 449.4,449.1 "/>
+<polyline class="st6" points="586.1,456.6 697.5,456.6 704.6,493.3 770.6,493.3 761.6,449.1 "/>
+<polyline class="st6" points="95.6,199.4 67.1,312.6 136.1,312.6 74.6,493.3 "/>
+<polyline class="st6" points="258.3,35.1 245.6,95.1 160.1,95.1 "/>
+<polyline class="st6" points="170.6,126.6 151.1,206.1 272.6,206.1 "/>
+<polyline class="st6" points="504.2,35.1 504.2,117.6 547.5,117.6 557.6,172.8 "/>
+<polyline class="st6" points="504.2,60.6 467.6,60.6 440.6,155.1 "/>
+</svg>
