@@ -1,0 +1,155 @@
+[
+    {
+        "sprite": "rainbow",
+        "keyframes": [
+            {
+                "frame": 1385,
+                "tx": -512,
+                "ty": 384
+            },
+            {
+                "frame": 1415,
+                "tx": 512,
+                "ty": 384
+            },
+            {
+                "frame": 1675,
+                "tx": 512,
+                "ty": 384
+            }
+        ]
+    },
+    {
+        "sprite": "moon",
+        "keyframes": [
+            {
+                "frame": 1275,
+                "tx": 512,
+                "ty": 800,
+                "sx": 2.5,
+                "sy": 2.5,
+                "rotate": -65
+            },
+            {
+                "frame": 1675,
+                "tx": 512,
+                "ty": 800,
+                "sx": 2.5,
+                "sy": 2.5,
+                "rotate": -65
+            }
+        ]
+    },
+    {
+        "sprite": "lander",
+        "keyframes": [
+            {
+                "frame": 1275,
+                "tx": 20,
+                "ty": 700,
+                "decimalLegExtended": 1.0,
+                "decimalOpen": 1.0,
+                "decimalRampExtended": 1.0,
+                "rotate": -65
+            },
+            {
+                "frame": 1675,
+                "tx": 20,
+                "ty": 700,
+                "decimalLegExtended": 1.0,
+                "decimalOpen": 1.0,
+                "decimalRampExtended": 1.0,
+                "rotate": -65
+            }
+        ]
+    },
+    {
+        "sprite": "alien",
+        "keyframes": [
+            {
+                "frame": 1275,
+                "pupilPosDecimal": 1.0,
+                "sx": 0.7,
+                "sy": 0.7,
+                "tx": 480,
+                "ty": 280,
+                "ease": "quadEaseInAndOut"
+            },
+            {
+                "frame": 1335,
+                "armRExtension": 1.6,
+                "armRRotation": -35
+            },
+            {
+                "frame": 1385,
+                "sx": 0.7,
+                "sy": 0.7,
+                "tx": 480,
+                "ty": 280
+            },
+            {
+                "frame": 1395,
+                "sx": 0.7,
+                "sy": 0.6,
+                "tx": 480,
+                "ty": 300
+            },
+            {
+                "frame": 1405,
+                "sx": 0.7,
+                "sy": 0.7,
+                "tx": 480,
+                "ty": 280
+            },
+            {
+                "frame": 1435,
+                "sx": 0.7,
+                "sy": 0.7,
+                "tx": 480,
+                "ty": -120,
+                "armRExtension": 1.6,
+                "armRRotation": -35
+            }
+        ]
+    },
+    {
+        "sprite": "astronaut",
+        "keyframes": [
+            {
+                "frame": 1275,
+                "tx": 600,
+                "ty": 350
+            },
+            {
+                "frame": 1365,
+                "tx": 600,
+                "ty": 350
+            },
+            {
+                "frame": 1375,
+                "tx": 600,
+                "ty": 350,
+                "armLRotation": 40
+            },
+            {
+                "frame": 1395,
+                "tx": 600,
+                "ty": 370,
+                "sx": 1.0,
+                "sy": 0.9
+            },
+            {
+                "frame": 1405,
+                "tx": 600,
+                "ty": 350
+            },
+            {
+                "frame": 1435,
+                "tx": 600,
+                "ty": -50,
+                "armLRotation": 40
+            }
+        ]
+    }
+
+]

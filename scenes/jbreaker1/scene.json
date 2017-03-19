@@ -1,0 +1,108 @@
+[
+    {
+        "sprite": "potato",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 512,
+                "ty": 160,
+                "amount": 0,
+                "ease": "easeInCirc"
+            },
+
+            {
+                "frame": 50,
+                "sx": 2.0,
+                "sy": 2.0,
+                "amount": 2
+            },
+
+            {
+                "frame": 100,
+                "ty": 160,
+                "sx": 2.0,
+                "sy": 2.0,
+                "amount": 3,
+                "ease": "easeOutCirc"
+            },
+
+            {
+                "frame": 200,
+                "ty": 500,
+                "sx": 0.0001,
+                "sy": 0.0001,
+                "amount": 3,
+                "ease": "linear"
+            }
+        ]
+    },
+
+    {
+        "sprite": "deepFryer",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 500,
+                "ty": 500,
+                "sx": 0.5,
+                "down": 10,
+                "change": 1
+            },
+
+            {
+                "frame": 100,
+                "ease": "quadEaseIn",
+                "down": 100,
+                "change": 1
+            },
+            {
+                "frame": 300,
+                "tx": 500,
+                "ty": 500,
+                "sx": 2.0,
+                "ease": "quadEaseIn",
+                "down": -100,
+                "change": 1
+            }
+        ]
+    },
+
+
+    {
+        "sprite": "person",
+        "keyframes": [
+            {
+                "frame": 0,
+                "tx": 250,
+                "ty": 100,
+                "sx": 1,
+                "rotateRight" : 0,
+                "ease": "easeOutBounce"
+            },
+
+            {
+                "frame" : 50,
+                "rotateRight" : 20
+            },
+
+            {
+                "frame": 200,
+                "tx": 250,
+                "ty": 100,
+                "ease": "easeOutBounce"
+            },
+
+            {
+                "frame": 250,
+                "tx": 50,
+                "ease": "easeOutBounce"
+            },
+
+            {
+                "frame": 300,
+                "tx": 10,
+                "ty": 100
+            }
+        ]
+    }
+]
