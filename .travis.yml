@@ -2,7 +2,5 @@ language: node_js
 node_js:
   - "6"
 notifications:
-    slack: lmucs:kVlk4FMB9PACSOY77Ck8Mc5N
-        on_success: change
-        on_failure: change
-    email: false
+  slack: lmucs:K0xhDvvHXojN0VxNTYPfOgjj
+  email: false
