@@ -37,9 +37,9 @@
     };
 
     // load images
-    body.src = '../images/cartoon-astronaut-no-arms.png';
-    armL.src = '../images/cartoon-astronaut-left-arm.png';
-    armR.src = '../images/cartoon-astronaut-right-arm.png';
+    body.src = 'Images/cartoon-astronaut-no-arms.png';
+    armL.src = 'Images/cartoon-astronaut-left-arm.png';
+    armR.src = 'Images/cartoon-astronaut-right-arm.png';
 
     let drawBody = (renderingContext) => {
         renderingContext.save();

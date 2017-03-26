@@ -9,7 +9,7 @@
         moonLoaded = false;
 
     // load image source (from http://www.clipartsfree.net/clipart/17782-moon-in-comic-style-clipart.html)
-    moon.src = "../images/moon.svg";
+    moon.src = "Images/moon.svg";
 
     // when moon is loaded, allow drawing
     moon.onload = () => {

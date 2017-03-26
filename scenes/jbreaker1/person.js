@@ -4,7 +4,7 @@
     knife.onload = function() {
         renderingContext.drawImage(knife, 0, 0);
     };
-    knife.src = '/image/knife.png';
+    knife.src = 'Images/knife.png';
     window.SampleSpriteLibrary = window.SampleSpriteLibrary || {};
     SampleSpriteLibrary.person = (specs) => {
         let renderingContext = specs.renderingContext || 0;

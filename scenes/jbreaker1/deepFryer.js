@@ -19,9 +19,9 @@
         loaded = true;
         renderingContext.restore();
     };
-    deepFryer.src = '/image/deepFryer2.png';
-    frenchFry.src = '/image/Frenchfry.png';
-    MiddlePotato.src = '/image/middlepotato.png';
+    deepFryer.src = 'Images/deepFryer2.png';
+    frenchFry.src = 'Images/Frenchfry.png';
+    MiddlePotato.src = 'Images/middlepotato.png';
     window.SampleSpriteLibrary = window.SampleSpriteLibrary || {};
     SampleSpriteLibrary.deepFryer = (specs) => {
         let renderingContext = specs.renderingContext || 0;

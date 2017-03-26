@@ -12,15 +12,15 @@
     potato.onload = function() {
         renderingContext.drawImage(potato, x, y, potato.width / 2, potato.height / 2);
     };
-    potato.src = '/image/Potato.png';
+    potato.src = 'Images/Potato.png';
     halfPotato.onload = function() {
         renderingContext.drawImage(halfPotato, x, y, halfPotato.width / 2, halfPotato.height / 2);
     };
     halfPotato2.onload = function() {
         renderingContext.drawImage(halfPotato2, x + 80, y, halfPotato2.width / 2, halfPotato.height / 2);
     };
-    halfPotato.src = '/image/halfpotato.png';
-    halfPotato2.src = '/image/halfpotato2.png';
+    halfPotato.src = 'Images/halfpotato.png';
+    halfPotato2.src = 'Images/halfpotato2.png';
     LeftPotato.onload = function() {
         renderingContext.drawImage(LeftPotato, x, y, LeftPotato.width / 2, LeftPotato.height / 2);
     };
@@ -33,10 +33,10 @@
     RightPotato.onload = function() {
         renderingContext.drawImage(RightPotato, x + 150, y, RightPotato.width / 2, RightPotato.height / 2);
     };
-    LeftPotato.src = '/image/leftpotato.png';
-    MiddlePotato.src = '/image/middlepotato.png';
-    MiddlePotato2.src = '/image/middlepotato2.png';
-    RightPotato.src = '/image/rightpotato.png';
+    LeftPotato.src = 'Images/leftpotato.png';
+    MiddlePotato.src = 'Images/middlepotato.png';
+    MiddlePotato2.src = 'Images/middlepotato2.png';
+    RightPotato.src = 'Images/rightpotato.png';
     window.SampleSpriteLibrary = window.SampleSpriteLibrary || {};
     SampleSpriteLibrary.potato = (specs) => {
         let renderingContext = specs.renderingContext;
